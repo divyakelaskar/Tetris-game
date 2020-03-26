@@ -1,2 +1,2 @@
 # Turtle-Race
-##A GUI based game in python.
+## A GUI based game in python.
