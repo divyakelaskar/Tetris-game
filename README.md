@@ -1,2 +1,2 @@
-# Turtle-Race
+# Tetris
  A GUI based game in python.
