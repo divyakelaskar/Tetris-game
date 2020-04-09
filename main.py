@@ -7,6 +7,7 @@ speed(0)
 penup()
 goto(-140, 140)
 
+# racing track
 for step in range(15):
   write(step, align='center')
   right(90)
