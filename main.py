@@ -21,6 +21,7 @@ for step in range(15):
   left(90)
   forward(20)
 
+# first player details
 player_1 = Turtle()
 player_1.color('red')
 player_1.shape('turtle')
