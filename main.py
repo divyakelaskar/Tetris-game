@@ -26,6 +26,7 @@ player_1 = Turtle()
 player_1.color('red')
 player_1.shape('turtle')
 
+# first player proceeds to race track
 player_1.penup()
 player_1.goto(-160, 100)
 player_1.pendown()
