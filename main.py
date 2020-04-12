@@ -40,6 +40,7 @@ player_2 = Turtle()
 player_2.color('blue')
 player_2.shape('turtle')
 
+# second player enters in the racing track
 player_2.penup()
 player_2.goto(-160, 70)
 player_2.pendown()
