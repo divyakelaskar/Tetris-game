@@ -45,6 +45,7 @@ player_2.penup()
 player_2.goto(-160, 70)
 player_2.pendown()
 
+# 360 degree turn
 for turn in range(72):
   player_2.left(5)
 
