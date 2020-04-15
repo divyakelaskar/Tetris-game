@@ -49,6 +49,7 @@ player_2.pendown()
 for turn in range(72):
   player_2.left(5)
 
+# third player details
 player_3 = Turtle()
 player_3.shape('turtle')
 player_3.color('green')
