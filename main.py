@@ -53,12 +53,12 @@ for turn in range(72):
 player_3 = Turtle()
 player_3.shape('turtle')
 player_3.color('green')
-
-# 360 degree turn   
+   
 player_3.penup()
 player_3.goto(-160, 40)
 player_3.pendown()
 
+# 360 degree turn
 for turn in range(60):
   player_3.right(6)
 
