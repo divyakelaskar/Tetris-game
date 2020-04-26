@@ -68,6 +68,7 @@ player_4 = Turtle()
 player_4.shape('turtle')
 player_4.color('orange')
 
+# fourth player enters in the racing track
 player_4.penup()
 player_4.goto(-160, 10)
 player_4.pendown()
