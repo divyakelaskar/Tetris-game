@@ -73,11 +73,11 @@ player_4.penup()
 player_4.goto(-160, 10)
 player_4.pendown()
 
-
 # 360 degree turn
 for turn in range(30):
   player_4.left(12)
 
+# turtles run at random speeds
 for turn in range(100):
   player_1.forward(randint(1,5))
   player_2.forward(randint(1,5))
