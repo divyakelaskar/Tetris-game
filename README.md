@@ -1,2 +1,2 @@
 # Turtle Race
- A zero-player game in python3.
+ A zero-player game in Python 3.
